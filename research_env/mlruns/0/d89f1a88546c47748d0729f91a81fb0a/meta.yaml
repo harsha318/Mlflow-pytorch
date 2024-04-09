@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlops_cloud_New/MLFLOW_INeuron/Mlflow_demo/AIops_Mlflow_pytorch/Mlflow-pytorch/research_env/mlruns/0/d89f1a88546c47748d0729f91a81fb0a/artifacts
+end_time: 1712660482533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d89f1a88546c47748d0729f91a81fb0a
+run_name: luxuriant-midge-468
+run_uuid: d89f1a88546c47748d0729f91a81fb0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712660474373
+status: 3
+tags: []
+user_id: Harsha Vardhan Reddy

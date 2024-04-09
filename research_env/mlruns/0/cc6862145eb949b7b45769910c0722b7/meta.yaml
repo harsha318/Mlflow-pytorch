@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlops_cloud_New/MLFLOW_INeuron/Mlflow_demo/AIops_Mlflow_pytorch/Mlflow-pytorch/research_env/mlruns/0/cc6862145eb949b7b45769910c0722b7/artifacts
+end_time: 1712660499219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc6862145eb949b7b45769910c0722b7
+run_name: gaudy-goat-108
+run_uuid: cc6862145eb949b7b45769910c0722b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712660492081
+status: 3
+tags: []
+user_id: Harsha Vardhan Reddy

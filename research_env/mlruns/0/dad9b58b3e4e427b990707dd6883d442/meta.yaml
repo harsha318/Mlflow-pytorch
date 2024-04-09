@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlops_cloud_New/MLFLOW_INeuron/Mlflow_demo/AIops_Mlflow_pytorch/Mlflow-pytorch/research_env/mlruns/0/dad9b58b3e4e427b990707dd6883d442/artifacts
+end_time: 1712658213785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dad9b58b3e4e427b990707dd6883d442
+run_name: enthused-mule-458
+run_uuid: dad9b58b3e4e427b990707dd6883d442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712658205276
+status: 3
+tags: []
+user_id: Harsha Vardhan Reddy
